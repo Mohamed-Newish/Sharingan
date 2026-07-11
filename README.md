@@ -12,7 +12,7 @@ python3 sharingan.py inscope.txt
 Install:
 
 ```
-git clone https://github.com/MohamedSayed458/Sharingan.git
+git clone https://github.com/Mohamed-Newish/Sharingan.git
 cd Sharingan
 chmod +x recon.sh
 sudo mv recon.sh /usr/bin/sharingan
