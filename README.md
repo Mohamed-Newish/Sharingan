@@ -84,4 +84,4 @@ For **authorized security testing and educational use only**. Run it exclusively
 
 ## License
 
-Mohamed Sayed — [@kanike99](https://twitter.com/kanike99)
+Mohamed Newish — [@kanike99](https://twitter.com/kanike99)
